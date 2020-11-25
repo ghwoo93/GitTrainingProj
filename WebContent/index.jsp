@@ -1,5 +1,8 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page
+	language="java"
+	contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"
+%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +10,13 @@
 <title>index.jsp</title>
 </head>
 <body>
-    <h2>첫시간</h2>
+	<h2>첫시간</h2>
+	<fieldset>
+		<legend>깃 허브 연동</legend>
+		<ul>
+			<li>자바</li>
+			<li>스프링</li>
+		</ul>
+	</fieldset>
 </body>
 </html>
